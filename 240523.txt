@@ -1,0 +1,18 @@
+IT 기반 지식~~ 컴퓨터 공학 지식!!!
+직급 직위 올라가면 관리 설계를 하잖아~
+
+깃허브 토픽 잘봐봥
+
+mit 라이센스....
+
+더존 erp
+영림원 erp
+
+
+git init
+git remote add origin
+https://github.com/sunbang123/2024-web-senior.git
+
+node_modules 제출하지마 점수깎을거야
+
+git add * 하면 트래킹해서 status에 올리는거야~~
