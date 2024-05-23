@@ -16,3 +16,7 @@ https://github.com/sunbang123/2024-web-senior.git
 node_modules 제출하지마 점수깎을거야
 
 git add * 하면 트래킹해서 status에 올리는거야~~
+
+git commit -m "Initialize Commit"
+
+git config로 비밀번호 입력할 수 있음~~~
