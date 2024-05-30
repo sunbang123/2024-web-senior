@@ -40,7 +40,7 @@ app.get('/lotto-numbers', (req, res) => {
         return 0;
     });
     
-    return res.json(pickArray);
+    return res.json({result : pickArray});
 })
 
 app.listen(port, () => {
