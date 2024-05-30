@@ -16,6 +16,8 @@ git config user.name
 
 git clone "repository 주소" .(현재주소, 안넣으면 폴더 생성함.)
 
+올리기 : git pull origin master(브랜치명)
+내리기 : push
 
 =========================================
 
