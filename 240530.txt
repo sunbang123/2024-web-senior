@@ -8,8 +8,8 @@ git add *
 git commit -m "작업 내용"
 git push origin master(or main)
 ** github 계정 등록
-git config --global user.email "kimsunyoeng@gmail.com"
-git config --global user.name "kimsunyoung"
+git config --global user.email "musicianksy@naver.com"
+git config --global user.name "sunbang123"
 
 계정 설정 확인
 git config user.name
