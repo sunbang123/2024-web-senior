@@ -20,3 +20,7 @@ git add * 하면 트래킹해서 status에 올리는거야~~
 git commit -m "Initialize Commit"
 
 git config로 비밀번호 입력할 수 있음~~~
+
+git commit -m "Initialize Commit"
+
+git config로 비밀번호 입력할 수 있음~~~
